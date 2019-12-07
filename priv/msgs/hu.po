@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the ejabberd package.
 #
 # Balázs Úr <ur.balazs@fsf.hu>, 2019.
+# Meskó Balázs <mesko.balazs@fsf.hu>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: 19.09.1\n"
 "Report-Msgid-Bugs-To: https://github.com/processone/ejabberd/issues\n"
 "POT-Creation-Date: 2019-12-07 14:30+0000\n"
-"PO-Revision-Date: 2019-12-07 14:39+0100\n"
-"Last-Translator: Balázs Úr <ur.balazs@fsf.hu>\n"
+"PO-Revision-Date: 2019-12-07 21:10+0100\n"
+"Last-Translator: Meskó Balázs <mesko.balazs@fsf.hu>\n"
 "Language-Team: Hungarian\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -18,8 +19,8 @@ msgstr ""
 "X-Language: Hungarian\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Basepath: ../../src\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Generator: Lokalize 19.04.3\n"
 
 #: mod_vcard.erl:462
 msgid " (Add * to the end of field to match substring)"
@@ -173,7 +174,7 @@ msgstr "Biztonsági mentés fájlba ekkor: "
 #: ejabberd_web_admin.erl:1087 mod_shared_roster.erl:787
 #: mod_shared_roster.erl:888 mod_roster.erl:1012
 msgid "Bad format"
-msgstr "Rossz formátum"
+msgstr "Hibás formátum"
 
 #: mod_vcard_ldap.erl:332 mod_vcard_ldap.erl:345 mod_vcard_sql.erl:162
 #: mod_vcard_sql.erl:176 mod_vcard_mnesia.erl:105 mod_vcard_mnesia.erl:119
@@ -278,7 +279,7 @@ msgstr "Település"
 
 #: mod_stream_mgmt.erl:469
 msgid "Client acknowledged more stanzas than sent by server"
-msgstr "Az ügyfél több stanzát nyugtázott a kiszolgáló által küldötteknél"
+msgstr "Az ügyfél több stanzát nyugtázott, mint amennyit a kiszolgáló küldött"
 
 #: mod_adhoc.erl:107 mod_adhoc.erl:134 mod_adhoc.erl:150 mod_adhoc.erl:166
 msgid "Commands"
@@ -336,7 +337,7 @@ msgstr "Adatbázishiba"
 
 #: mod_muc_log.erl:488
 msgid "December"
-msgstr "December"
+msgstr "december"
 
 #: mod_muc_log.erl:810
 msgid "Default users as participants"
@@ -885,7 +886,7 @@ msgstr "Többfelhasználós csevegés"
 
 #: mod_multicast.erl:1162
 msgid "Multicast"
-msgstr "Üzenetszórás"
+msgstr "Csoportcímzés"
 
 #: mod_roster.erl:190
 msgid "Multiple <item/> elements are not allowed by RFC6121"
@@ -1070,7 +1071,7 @@ msgstr "~p csomópont"
 
 #: mod_vcard.erl:398
 msgid "Nodeprep has failed"
-msgstr "A csomópont-előkészítés meghiúsult"
+msgstr "A csomópont-előkészítés sikertelen"
 
 #: ejabberd_web_admin.erl:1063 ejabberd_web_admin.erl:1788
 #: ejabberd_web_admin.erl:1814
@@ -1147,11 +1148,11 @@ msgstr "Elérhető felhasználók:"
 
 #: mod_carboncopy.erl:110
 msgid "Only <enable/> or <disable/> tags are allowed"
-msgstr "Csak <enable/> vagy <disable/> címkék engedélyezettek"
+msgstr "Csak az <enable/> vagy <disable/> címkék engedélyezettek"
 
 #: mod_privacy.erl:142
 msgid "Only <list/> element is allowed in this query"
-msgstr "Csak <list/> elem engedélyezett ebben a lekérdezésben"
+msgstr "Csak a <list/> elem engedélyezett ebben a lekérdezésben"
 
 #: mod_mam.erl:513
 msgid "Only members may query archives of this room"
@@ -1318,7 +1319,7 @@ msgstr "Publikálás-feliratkozás"
 
 #: mod_push.erl:298
 msgid "Push record not found"
-msgstr "Felküldési rekord nem található"
+msgstr "Leküldési rekord nem található"
 
 #: mod_muc_room.erl:611
 msgid "Queries to the conference members are not allowed in this room"
@@ -1352,11 +1353,11 @@ msgstr "A címzett nincs a konferenciaszobában"
 
 #: mod_register_web.erl:317
 msgid "Register"
-msgstr "Regisztrálás"
+msgstr "Regisztráció"
 
 #: mod_register_web.erl:224 mod_register_web.erl:252 mod_register_web.erl:260
 msgid "Register a Jabber account"
-msgstr "Jabber-fiók regisztrálása"
+msgstr "Jabber-fiók regisztrációja"
 
 #: ejabberd_web_admin.erl:581
 msgid "Registered Users"
@@ -2074,7 +2075,7 @@ msgstr "Egy x:data támogatású programra van szüksége a kereséshez"
 
 #: mod_pubsub.erl:1563
 msgid "You're not allowed to create nodes"
-msgstr "Önnek nem engedélyezett csomópontokat létrehozni"
+msgstr "Önnek nincs engedélye csomópontokat létrehoznia"
 
 #: mod_register_web.erl:128
 msgid "Your Jabber account was successfully created."
