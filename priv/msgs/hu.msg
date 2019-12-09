@@ -32,7 +32,7 @@
 {"Backup Management","Biztonságimentés-kezelés"}.
 {"Backup of ~p","~p biztonsági mentése"}.
 {"Backup to File at ","Biztonsági mentés fájlba ekkor: "}.
-{"Bad format","Rossz formátum"}.
+{"Bad format","Hibás formátum"}.
 {"Birthday","Születésnap"}.
 {"Both the username and the resource are required","A felhasználónév és az erőforrás is szükséges"}.
 {"Bytestream already activated","A bájtfolyam már be van kapcsolva"}.
@@ -56,7 +56,7 @@
 {"Choose storage type of tables","Táblák tárolótípusának kiválasztása"}.
 {"Choose whether to approve this entity's subscription.","Annak kiválasztása, hogy elfogadja-e ennek a bejegyzésnek a feliratkozását."}.
 {"City","Település"}.
-{"Client acknowledged more stanzas than sent by server","Az ügyfél több stanzát nyugtázott a kiszolgáló által küldötteknél"}.
+{"Client acknowledged more stanzas than sent by server","Az ügyfél több stanzát nyugtázott, mint amennyit a kiszolgáló küldött"}.
 {"Commands","Parancsok"}.
 {"Conference room does not exist","A konferenciaszoba nem létezik"}.
 {"Configuration","Beállítás"}.
@@ -68,7 +68,7 @@
 {"Database failure","Adatbázishiba"}.
 {"Database Tables at ~p","Adatbázistáblák itt: ~p"}.
 {"Database Tables Configuration at ","Adatbázistáblák beállítása itt: "}.
-{"December","December"}.
+{"December","december"}.
 {"Default users as participants","Alapértelmezett felhasználók mint résztvevők"}.
 {"Delete content","Tartalom törlése"}.
 {"Delete message of the day","Napi üzenet törlése"}.
@@ -213,7 +213,7 @@
 {"Modified modules","Módosított modulok"}.
 {"Module failed to handle the query","A modul nem tudta kezelni a lekérdezést"}.
 {"Monday","hétfő"}.
-{"Multicast","Üzenetszórás"}.
+{"Multicast","Csoportcímzés"}.
 {"Multiple <item/> elements are not allowed by RFC6121","Több <item/> elem nem engedélyezett az RFC6121 alapján"}.
 {"Multi-User Chat","Többfelhasználós csevegés"}.
 {"Name","Név"}.
@@ -238,7 +238,7 @@
 {"Node index not found","A csomópontindex nem található"}.
 {"Node not found","A csomópont nem található"}.
 {"Node ~p","~p csomópont"}.
-{"Nodeprep has failed","A csomópont-előkészítés meghiúsult"}.
+{"Nodeprep has failed","A csomópont-előkészítés sikertelen"}.
 {"Nodes","Csomópontok"}.
 {"No features available","Nincsenek elérhető funkciók"}.
 {"No <forwarded/> element found","Nem található <forwarded/> elem"}.
@@ -274,8 +274,8 @@
 {"Online","Elérhető"}.
 {"Online Users","Elérhető felhasználók"}.
 {"Online Users:","Elérhető felhasználók:"}.
-{"Only <enable/> or <disable/> tags are allowed","Csak <enable/> vagy <disable/> címkék engedélyezettek"}.
-{"Only <list/> element is allowed in this query","Csak <list/> elem engedélyezett ebben a lekérdezésben"}.
+{"Only <enable/> or <disable/> tags are allowed","Csak az <enable/> vagy <disable/> címkék engedélyezettek"}.
+{"Only <list/> element is allowed in this query","Csak a <list/> elem engedélyezett ebben a lekérdezésben"}.
 {"Only members may query archives of this room","Csak tagok kérdezhetik le ennek a szobának az archívumát"}.
 {"Only moderators and participants are allowed to change the subject in this room","Csak moderátoroknak és résztvevőknek engedélyezett megváltoztatni a tárgyat ebben a szobában"}.
 {"Only moderators are allowed to change the subject in this room","Csak moderátoroknak engedélyezett megváltoztatni a tárgyat ebben a szobában"}.
@@ -312,17 +312,17 @@
 {"private, ","személyes, "}.
 {"Publish-Subscribe","Publikálás-feliratkozás"}.
 {"PubSub subscriber request","Publikálás-feliratkozás feliratkozási kérelem"}.
-{"Push record not found","Felküldési rekord nem található"}.
+{"Push record not found","Leküldési rekord nem található"}.
 {"Queries to the conference members are not allowed in this room","A konferenciatagok lekérdezései nem engedélyezettek ebben a szobában"}.
 {"Query to another users is forbidden","Egy másik felhasználó lekérdezése tiltva van"}.
 {"RAM and disc copy","RAM és lemezmásolás"}.
 {"RAM copy","RAM másolás"}.
 {"Really delete message of the day?","Valóban törli a napi üzenetet?"}.
 {"Recipient is not in the conference room","A címzett nincs a konferenciaszobában"}.
-{"Register a Jabber account","Jabber-fiók regisztrálása"}.
+{"Register a Jabber account","Jabber-fiók regisztrációja"}.
 {"Registered Users","Regisztrált felhasználók"}.
 {"Registered Users:","Regisztrált felhasználók:"}.
-{"Register","Regisztrálás"}.
+{"Register","Regisztráció"}.
 {"Remote copy","Távoli másolás"}.
 {"Remove All Offline Messages","Összes kapcsolat nélküli üzenet eltávolítása"}.
 {"Remove","Eltávolítás"}.
@@ -492,7 +492,7 @@
 {"You need an x:data capable client to search","Egy x:data támogatású programra van szüksége a kereséshez"}.
 {"Your active privacy list has denied the routing of this stanza.","Az aktív adatvédelmi listája megtagadta ennek a stanzának az útválasztását."}.
 {"Your contact offline message queue is full. The message has been discarded.","A partnere kapcsolat nélküli üzenettárolója megtelt. Az üzenet el lett dobva."}.
-{"You're not allowed to create nodes","Önnek nem engedélyezett csomópontokat létrehozni"}.
+{"You're not allowed to create nodes","Önnek nincs engedélye csomópontokat létrehozni"}.
 {"Your Jabber account was successfully created.","A Jabber-fiókja sikeresen létrehozva."}.
 {"Your Jabber account was successfully deleted.","A Jabber-fiókja sikeresen törölve."}.
 {"Your subscription request and/or messages to ~ts have been blocked. To unblock your subscription request, visit ~ts","A feliratkozási kérelme és/vagy ~ts számára küldött üzenetei blokkolva lettek. A feliratkozási kérelmének feloldásához látogassa meg ezt az oldalt: ~ts"}.
